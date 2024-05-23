@@ -4,5 +4,6 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
 
 
 <ol>
-  <li><a href="https://github.com/williamgkzhang">williamgkzhang</a></li>
+  <li>1 - [0xTib3rius](https://x.com/0xTib3rius)</li>
+  <li>2 - [williamgkzhang](https://github.com/williamgkzhang)</li>
 </ol>
