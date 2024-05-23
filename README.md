@@ -5,4 +5,5 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
 
 <ol>
   <li><a href="https://x.com/0xTib3rius">0xTib3rius</a></li>
+  <li><a href="https://github.com/igorbrigadir">Igor</a></li>
 </ol>
