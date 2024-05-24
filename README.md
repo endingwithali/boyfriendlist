@@ -20,6 +20,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/thug-shaker">Jim Colerick</a></li>
   <li><a href="https://github.com/oldkingcone">oldkingcone</a></li>
   <li><a href="https://github.com/EcZachly">eczachly</a></li>
+  <li><a href="https://github.com/panguin6010">panguin6010</a></li>
 </ol>
 
 # TOP BULLIES 
