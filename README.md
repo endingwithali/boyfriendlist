@@ -25,6 +25,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/dreywandowski">dreywandowski</a></li>
   <li><a href="https://github.com/aarnphm">aarnphm</a></li>
   <li><a href="https://github.com/Kapendev">Kapendev</a></li>
+  <li><a href="https://github.com/TomasGonzalez">TomasGonzalez</a></li>
 </ol>
 
 # TOP BULLIES 
