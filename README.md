@@ -13,6 +13,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/williamgkzhang">williamgkzhang</a></li>
   <li><a href="https://github.com/hyperreal64">hyperreal64</a></li>
   <li><a href="https://github.com/supersat">supersat</a></li>
+  <li><a href="https://github.com/thug-shaker">Jim Colerick</a></li>
 </ol>
 
 # TOP BULLIES 
