@@ -25,3 +25,8 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/endingwithali/boyfriendlist/pull/8">Pim De Witte</a></li>
   <li><a href="https://github.com/endingwithali/boyfriendlist/pull/11">StartingwithWolfred</a></li>
 </ol>
+
+# AGONY AUNTS
+<ol>
+  <li><a href="https://twitter.com/quinnypig">Quinnypig</a></li>
+</ol>
