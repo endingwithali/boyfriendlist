@@ -10,6 +10,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/igorbrigadir">Igor</a></li>
   <li><a href="https://twitch.tv/biggie013">biggie013</a></li>
   <li><a href="https://github.com/yeastinfectedtwatz">closetkuntz</a></li>
+  <li><a href="https://github.com/williamgkzhang">williamgkzhang</a></li>
   <li><a href="https://github.com/hyperreal64">hyperreal64</a></li>
   <li><a href="https://github.com/supersat">supersat</a></li>
 </ol>
