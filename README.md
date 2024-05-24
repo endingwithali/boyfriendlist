@@ -17,6 +17,12 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/dmfj">dmfj</a></li>
 </ol>
 
+# No, but I'll hug you for a while and bring you a hot beverage if you want.
+
+<ol>
+  <li><a href="https://github.com/RuiNelson">RuiNelson</a></li>
+</ol>
+
 # TOP BULLIES 
 
 <ol>
