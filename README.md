@@ -2,20 +2,19 @@
 
 Submit a PR with a link to your twitch or github handle to join the boyfriend list. You must have a number next to your name. PR Number = Boyfriend Number. No Deleting other boyfriends. 
 
-<ol>
-  <li><a href="https://x.com/0xTib3rius">0xTib3rius</a></li>
-  <li><a href="https://twitch.tv/robot_with_ahat">robot_with_ahat</a></li>
-  <li><a href="https://twitch.tv/SamCurtisD">SamCurtisD</a></li>
-  <li><a href="https://twitch.tv/tiredbeaver">tiredbeaver</a></li>
-  <li><a href="https://github.com/igorbrigadir">Igor</a></li>
-  <li><a href="https://twitch.tv/biggie013">biggie013</a></li>
-  <li><a href="https://github.com/yeastinfectedtwatz">closetkuntz</a></li>.
-  <li><a href="https://github.com/williamgkzhang">williamgkzhang</a></li>
-  <li><a href="https://github.com/hyperreal64">hyperreal64</a></li>
-  <li><a href="https://docs.google.com/presentation/d/10qTrvAhfkgoVn4c8IchPzbp9U-flCfOC3CMNXv31SuM/edit?usp=sharing">ahmadaccino</a></li>
-  <li><a href="https://github.com/supersat">supersat</a></li>
-  <li><a href="https://github.com/dmfj">dmfj</a></li>
-</ol>
+0. [zyaire](https://github.com/zyairelai)
+1. [0xTib3rius](https://x.com/0xTib3rius)
+2. [robot_with_ahat](https://twitch.tv/robot_with_ahat)
+3. [SamCurtisD](https://twitch.tv/SamCurtisD)
+4. [tiredbeaver](https://twitch.tv/tiredbeaver)
+5. [Igor](https://github.com/igorbrigadir)
+6. [biggie013](https://twitch.tv/biggie013)
+7. [closetkuntz](https://github.com/yeastinfectedtwatz)
+8. [williamgkzhang](https://github.com/williamgkzhang)
+9. [hyperreal64](https://github.com/hyperreal64)
+10. [ahmadaccino](https://docs.google.com/presentation/d/10qTrvAhfkgoVn4c8IchPzbp9U-flCfOC3CMNXv31SuM/edit?usp=sharing)
+11. [supersat](https://github.com/supersat)
+12. [dmfj](https://github.com/dmfj)
 
 # TOP BULLIES 
 
