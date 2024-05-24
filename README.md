@@ -14,6 +14,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/hyperreal64">hyperreal64</a></li>
   <li><a href="https://docs.google.com/presentation/d/10qTrvAhfkgoVn4c8IchPzbp9U-flCfOC3CMNXv31SuM/edit?usp=sharing">ahmadaccino</a></li>
   <li><a href="https://github.com/supersat">supersat</a></li>
+  <li><a href="https://github.com/wds33817">wds33817</a></li>
   <li><a href="https://github.com/dmfj">dmfj</a></li>
   <li><a href="https://github.com/data-diddler">data-diddler</a></li>
 
