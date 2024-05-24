@@ -16,7 +16,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/supersat">supersat</a></li>
   <li><a href="https://github.com/dmfj">dmfj</a></li>
   <li><a href="https://github.com/data-diddler">data-diddler</a></li>
-
+  <li><a href="https://github.com/10ad3d">loaded</a></li>
 </ol>
 
 # TOP BULLIES 
