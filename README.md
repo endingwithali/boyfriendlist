@@ -48,6 +48,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
 1. [guluarte](https://github.com/guluarte)
 1. [meltingscales](https://github.com/meltingscales/)
 1. [mr_mustash](https://twitch.tv/mr_mustash)
+1. [Alen505](https://github.com/Alen505)
 
 # TOP BULLIES
 
