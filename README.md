@@ -48,6 +48,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/Crxaw">Crxaw</a></li>
   <li><a href="https://github.com/guluarte">guluarte</a></li>
   <li><a href="https://github.com/meltingscales/">meltingscales</a></li>
+  <li><a href="https://github.com/Autrann">Autran</a></li>
 </ol>
 
 # TOP BULLIES 
