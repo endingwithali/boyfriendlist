@@ -36,6 +36,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/sugamadhiakri">sugamadhiakri</a></li>
   <li><a href="https://github.com/jyln">JYLN</a></li>
   <li><a href="https://github.com/10ad3d">loaded</a></li>
+  <li><a href="https://x.com/ramtinmk82">ramtin</a></li>
 </ol>
 
 # TOP BULLIES
