@@ -39,5 +39,6 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
 <ol>
   <li><a href="https://github.com/endingwithali/boyfriendlist/pull/8">Pim De Witte</a></li>
   <li><a href="https://github.com/endingwithali/boyfriendlist/pull/11">StartingwithWolfred</a></li>
-  <li><a href="https://github.com/endingwithali/boyfriendlist/pull/32/">VersaceSauce</a></li>
+  <li><a href="https://github.com/endingwithali/boyfriendlist/pull/32">VersaceSauce</a></li>
+  <li><a href="https://github.com/endingwithali/boyfriendlist/pull/52">electric-sheep-ree</a></li>
 </ol>
