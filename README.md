@@ -44,6 +44,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://twitch.tv/baw7d3">baw7d3</a></li>
   <li><a href="https://github.com/sithmartyr">sithmartyr</a></li>
   <li><a href="https://giphy.com/gifs/hacker-hacking-trshpuppy-riwUvx9DmD1bSTw05Z">TrashPuppy</a></li>
+  <li><a href="https://github.com/Warcop">Warcop</a></li>
 </ol>
 
 # TOP BULLIES 
