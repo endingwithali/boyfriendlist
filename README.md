@@ -1,6 +1,6 @@
 # The Boyfriend List
 
-Submit a PR with a link to your twitch or github handle to join the boyfriend list. You must have a number next to your name. PR Number = Boyfriend Number. No Deleting other boyfriends. 
+Submit a PR with a link to your twitch or github handle to join the boyfriend list. You must have a number next to your name. PR Number = Boyfriend Number. No Deleting other boyfriends.
 
 <ol>
   <li><a href="https://x.com/0xTib3rius">0xTib3rius</a></li>
@@ -32,13 +32,21 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/coryetzkorn">Cory</a></li>
   <li><a href="https://github.com/KDAB1175">KDAB1175</a></li>
   <li><a href="https://github.com/maybesmurf">maybesmurf</a></li>
+  <li><a href="https://github.com/0xhrsh">0xhrsh</a></li>
+  <li><a href="https://github.com/sugamadhiakri">sugamadhiakri</a></li>
+  <li><a href="https://github.com/jyln">JYLN</a></li>
+  <li><a href="https://github.com/10ad3d">loaded</a></li>
+  <li><a href="https://x.com/ramtinmk82">ramtin</a></li>
+  <li><a href="https://github.com/ityonemo">e-xyza</a></li>
   <li><a href="https://github.com/Arunscape">Arunscape</a></li>
 </ol>
 
-# TOP BULLIES 
+# TOP BULLIES
 
 <ol>
   <li><a href="https://github.com/endingwithali/boyfriendlist/pull/8">Pim De Witte</a></li>
   <li><a href="https://github.com/endingwithali/boyfriendlist/pull/11">StartingwithWolfred</a></li>
-  <li><a href="https://github.com/endingwithali/boyfriendlist/pull/32/">VersaceSauce</a></li>
+  <li><a href="https://github.com/endingwithali/boyfriendlist/pull/32">VersaceSauce</a></li>
+  <li><a href="https://github.com/endingwithali/boyfriendlist/pull/52">electric-sheep-ree</a></li>
+  <li><a href="https://github.com/endingwithali/boyfriendlist/pull/54">regginator</a></li>
 </ol>
