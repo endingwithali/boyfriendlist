@@ -1,6 +1,6 @@
 # The Boyfriend List
 
-Submit a PR with a link to your twitch or github handle to join the boyfriend list. You must have a number next to your name. PR Number = Boyfriend Number. No Deleting other boyfriends.
+Submit a PR with a link to your twitch or github handle to join the boyfriend list. You must have a number next to your name. PR Number = Boyfriend Number. No Deleting other boyfriends. 
 
 <ol>
   <li><a href="https://x.com/0xTib3rius">0xTib3rius</a></li>
@@ -41,10 +41,11 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/ityonemo">e-xyza</a></li>
   <li><a href="https://github.com/Arunscape">Arunscape</a></li>
   <li><a href="https://github.com/vinicenter">vinicenter</a></li>
-
+  <li><a href="https://twitch.tv/baw7d3">baw7d3</a></li>
+  <li><a href="https://github.com/sithmartyr">sithmartyr</a></li>
 </ol>
 
-# TOP BULLIES
+# TOP BULLIES 
 
 <ol>
   <li><a href="https://github.com/endingwithali/boyfriendlist/pull/8">Pim De Witte</a></li>
