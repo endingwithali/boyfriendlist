@@ -24,6 +24,15 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/ohmydevops">ohmydevops</a></li>  
   <li><a href="https://github.com/dreywandowski">dreywandowski</a></li>
   <li><a href="https://github.com/aarnphm">aarnphm</a></li>
+  <li><a href="https://github.com/Kapendev">Kapendev</a></li>
+  <li><a href="https://github.com/TomasGonzalez">TomasGonzalez</a></li>
+  <li><a href="https://github.com/bdr-pro">Bader (Pro)</a></li>
+  <li><a href="https://x.com/proofofjake_">proofofjake</a></li>
+  <li><a href="https://github.com/AdditionAddict">AdditionAddict</a></li>
+  <li><a href="https://github.com/coryetzkorn">Cory</a></li>
+  <li><a href="https://github.com/KDAB1175">KDAB1175</a></li>
+  <li><a href="https://github.com/maybesmurf">maybesmurf</a></li>
+  <li><a href="https://github.com/0xhrsh">0xhrsh</a></li>
   <li><a href="https://twitch.tv/baw7d3">baw7d3</a></li>
 </ol>
 
@@ -32,5 +41,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
 <ol>
   <li><a href="https://github.com/endingwithali/boyfriendlist/pull/8">Pim De Witte</a></li>
   <li><a href="https://github.com/endingwithali/boyfriendlist/pull/11">StartingwithWolfred</a></li>
-  <li><a href="https://github.com/endingwithali/boyfriendlist/pull/32/">VersaceSauce</a></li>
+  <li><a href="https://github.com/endingwithali/boyfriendlist/pull/32">VersaceSauce</a></li>
+  <li><a href="https://github.com/endingwithali/boyfriendlist/pull/52">electric-sheep-ree</a></li>
+  <li><a href="https://github.com/endingwithali/boyfriendlist/pull/54">regginator</a></li>
 </ol>
