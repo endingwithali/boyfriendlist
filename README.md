@@ -34,6 +34,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
 1. [maybesmurf](https://github.com/maybesmurf)
 1. [0xhrsh](https://github.com/0xhrsh)
 1. [sugamadhiakri](https://github.com/sugamadhiakri)
+1. [NeerajLamsal](https://github.com/Neeraj319)
 1. [JYLN](https://github.com/jyln)
 1. [loaded](https://github.com/10ad3d)
 1. [ramtin](https://x.com/ramtinmk82)
