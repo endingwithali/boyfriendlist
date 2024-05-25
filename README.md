@@ -35,6 +35,12 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/0xhrsh">0xhrsh</a></li>
   <li><a href="https://github.com/sugamadhiakri">sugamadhiakri</a></li>
   <li><a href="https://github.com/jyln">JYLN</a></li>
+  <li><a href="https://github.com/10ad3d">loaded</a></li>
+  <li><a href="https://x.com/ramtinmk82">ramtin</a></li>
+  <li><a href="https://github.com/ityonemo">e-xyza</a></li>
+  <li><a href="https://github.com/Arunscape">Arunscape</a></li>
+  <li><a href="https://github.com/vinicenter">vinicenter</a></li>
+  <li><a href="https://twitch.tv/baw7d3">baw7d3</a></li>
   <li><a href="https://github.com/sithmartyr">sithmartyr</a></li>
 </ol>
 
