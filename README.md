@@ -23,7 +23,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/panguin6010">panguin6010</a></li>
   <li><a href="https://github.com/ohmydevops">ohmydevops</a></li>  
   <li><a href="https://github.com/dreywandowski">dreywandowski</a></li>
-  <li><a href="https://github.com/xTr4pSystem">xTr4pSystem</a></li>
+  <li><a href="https://github.com/xTr4pSystem">xTr4pSystem (Senpai)</a></li>
   <li><a href="https://github.com/aarnphm">aarnphm</a></li>
   <li><a href="https://github.com/Kapendev">Kapendev</a></li>
   <li><a href="https://github.com/TomasGonzalez">TomasGonzalez</a></li>
