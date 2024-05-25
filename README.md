@@ -40,6 +40,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/ityonemo">e-xyza</a></li>
   <li><a href="https://github.com/Arunscape">Arunscape</a></li>
   <li><a href="https://github.com/vinicenter">vinicenter</a></li>
+  <li><a href="https://twitch.tv/baw7d3">baw7d3</a></li>
 </ol>
 
 # TOP BULLIES
