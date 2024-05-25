@@ -16,6 +16,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/supersat">supersat</a></li>
   <li><a href="https://github.com/dmfj">dmfj</a></li>
   <li><a href="https://github.com/data-diddler">data-diddler</a></li>
+  <li><a href="https://giphy.com/gifs/hacker-hacking-trshpuppy-riwUvx9DmD1bSTw05Z">TrashPuppy</a></li>
 
 </ol>
 
@@ -25,16 +26,3 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/endingwithali/boyfriendlist/pull/8">Pim De Witte</a></li>
   <li><a href="https://github.com/endingwithali/boyfriendlist/pull/11">StartingwithWolfred</a></li>
 </ol>
-
-# MOST EXCEPTIONAL WIFEY
-<ol>
-  <li><a href="https://giphy.com/gifs/hacker-hacking-trshpuppy-riwUvx9DmD1bSTw05Z">TrashPuppy</a></li>
-</ol>
-
-As the MOST EXCEPTIONAL WIFEY on the Boyfriend list, it is my distinct honor to be able to offer you:
-- Foot rubs (sensual)
-- Endless gumbo
-- Will always back you up in a fight
-- Crush the patriarchy together
-- I will buy all your threat wires and also sell them to my friends and enemies
-- <3
