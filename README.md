@@ -23,6 +23,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/panguin6010">panguin6010</a></li>
   <li><a href="https://github.com/ohmydevops">ohmydevops</a></li>  
   <li><a href="https://github.com/dreywandowski">dreywandowski</a></li>
+  <li><a href="https://github.com/xTr4pSystem">xTr4pSystem</a></li>
   <li><a href="https://github.com/aarnphm">aarnphm</a></li>
   <li><a href="https://github.com/Kapendev">Kapendev</a></li>
   <li><a href="https://github.com/TomasGonzalez">TomasGonzalez</a></li>
@@ -35,8 +36,6 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
   <li><a href="https://github.com/0xhrsh">0xhrsh</a></li>
   <li><a href="https://github.com/sugamadhiakri">sugamadhiakri</a></li>
   <li><a href="https://github.com/jyln">JYLN</a></li>
-  <li><a href="https://github.com/10ad3d">loaded</a></li>
-  <li><a href="https://x.com/ramtinmk82">ramtin</a></li>
 </ol>
 
 # TOP BULLIES
