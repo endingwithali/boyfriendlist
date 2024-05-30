@@ -48,12 +48,19 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
 1. [guluarte](https://github.com/guluarte)
 1. [meltingscales](https://github.com/meltingscales/)
 1. [mr_mustash](https://twitch.tv/mr_mustash)
-9. [blue-slushy9](https://github.com/blue-slushy9)
+1. [NotoriousArnav](https://github.com/NotoriousArnav)
+1. [jeff bezos (Billionaire)](https://twitch.tv/grievxus)
+1. [blue-slushy9](https://github.com/blue-slushy9)
+
+
 
 # TOP BULLIES
-
 1. [Pim De Witte](https://github.com/endingwithali/boyfriendlist/pull/8)
 1. [StartingwithWolfred](https://github.com/endingwithali/boyfriendlist/pull/11)
 1. [VersaceSauce](https://github.com/endingwithali/boyfriendlist/pull/32)
 1. [electric-sheep-ree](https://github.com/endingwithali/boyfriendlist/pull/52)
 1. [regginator](https://github.com/endingwithali/boyfriendlist/pull/54)
+
+
+# Corey Quinn?
+1. [Quinnypig](https://twitter.com/quinnypig)
