@@ -52,6 +52,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
 1. [NotoriousArnav](https://github.com/NotoriousArnav)
 1. [jeff bezos (Billionaire)](https://twitch.tv/grievxus)
 1. [blue-slushy9](https://github.com/blue-slushy9)
+1. [vm32](https://github.com/vm32)
 
 
 
