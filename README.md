@@ -54,6 +54,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
 1. [blue-slushy9](https://github.com/blue-slushy9)
 1. [vm32](https://github.com/vm32)
 1. [Alen505](https://github.com/Alen505)
+1. [atharane](https://github.com/atharane)
 
 
 # TOP BULLIES
