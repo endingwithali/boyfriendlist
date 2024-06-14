@@ -66,7 +66,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
 
 # TOP BULLIES
 1. [Pim De Witte](https://github.com/endingwithali/boyfriendlist/pull/8)
-1. [StartingwithWolfred](https://github.com/endingwithali/boyfriendlist/pull/11)
+1. [StartingwithWolfred](https://github.com/endingwithali/boyfriendlist/pull/11) [DUAL OFFENDER](https://github.com/endingwithali/boyfriendlist/pull/97)
 1. [VersaceSauce](https://github.com/endingwithali/boyfriendlist/pull/32)
 1. [electric-sheep-ree](https://github.com/endingwithali/boyfriendlist/pull/52)
 1. [regginator](https://github.com/endingwithali/boyfriendlist/pull/54)
