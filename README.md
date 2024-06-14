@@ -58,7 +58,11 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
 1. [Akhilesh](https://github.com/akhilesh-w)
 1. [weems](https://x.com/weems)
 1. [SaahilNotSahil](https://github.com/SaahilNotSahil)
-2. [Nima](https://github.com/Nimaism)
+1. [zeheral](https://github.com/VishalZ123)
+1. [SohamD34](https://github.com/SohamD34)
+1. [KiriBloodrose](https://twitch.tv/KiriBloodrose)
+1. [Nima](https://github.com/Nimaism)
+
 
 # TOP BULLIES
 1. [Pim De Witte](https://github.com/endingwithali/boyfriendlist/pull/8)
