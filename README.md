@@ -63,6 +63,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
 1. [KiriBloodrose](https://twitch.tv/KiriBloodrose)
 1. [Nima](https://github.com/Nimaism)
 1. [Carhill](https://twitch.tv/Carhill)
+1. Sjoer van der Ploeg [Twitch](https://twitch.tv/kwakzalver420) [GitHub](https://github.com/sfjuocekr)
 
 # TOP BULLIES
 1. [Pim De Witte](https://github.com/endingwithali/boyfriendlist/pull/8)
