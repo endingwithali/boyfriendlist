@@ -65,6 +65,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
 1. [Carhill](https://twitch.tv/Carhill)
 1. [sirtorry](https://github.com/sirtorry)
 1. [Sjoer van der Ploeg](https://github.com/sfjuocekr)
+1. [Cobinja](https://github.com/Cobinja)
 
 # TOP BULLIES
 1. [Pim De Witte](https://github.com/endingwithali/boyfriendlist/pull/8)
