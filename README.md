@@ -72,6 +72,8 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
 1. [electric-sheep-ree](https://github.com/endingwithali/boyfriendlist/pull/52)
 1. [regginator](https://github.com/endingwithali/boyfriendlist/pull/54)
 
+# Trusted Boyfriend Advisor
+1. [mattstratton](https://twitter.com/mattstratton)
 
 # Corey Quinn?
 1. [Quinnypig](https://twitter.com/quinnypig)
