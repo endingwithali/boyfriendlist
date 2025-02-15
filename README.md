@@ -67,6 +67,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
 1. [Sjoer van der Ploeg](https://github.com/sfjuocekr)
 1. [Cobinja](https://github.com/Cobinja)
 1. [jeandecian](https://github.com/jeandecian)
+1. [Jatinnya](https://github.com/jatintripura)
 
 # TOP BULLIES
 1. [Pim De Witte](https://github.com/endingwithali/boyfriendlist/pull/8)
