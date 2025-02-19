@@ -63,6 +63,7 @@ Submit a PR with a link to your twitch or github handle to join the boyfriend li
 1. [KiriBloodrose](https://twitch.tv/KiriBloodrose)
 1. [Nima](https://github.com/Nimaism)
 1. [Carhill](https://twitch.tv/Carhill)
+1. [matzefriedrich](https://github.com/matzefriedrich)
 1. [sirtorry](https://github.com/sirtorry)
 1. [Sjoer van der Ploeg](https://github.com/sfjuocekr)
 1. [Cobinja](https://github.com/Cobinja)
